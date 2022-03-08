@@ -19,4 +19,7 @@ auto-py-to-exe
 and set the settings as follows.
 
 ![alt text](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/screen/s1.png)
-  
+ 
+## Working application and weights
+
+[Google Drive](https://drive.google.com/drive/u/2/folders/1PCwoMVl6RjRO6lLEHxiWG_MJ5jwiKJGP)
