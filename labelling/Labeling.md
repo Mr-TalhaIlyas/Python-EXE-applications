@@ -13,42 +13,42 @@
     
 3. [myip.com](http://myip.com) 사이트에 접속해서 아이피 정보를 전달 부탁드립니다.
 
-![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled.png)
+![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled.png)
 
 ## 세팅 방법
 
 - 설정 변경 없이 next만 눌러서 install 해주시면 됩니다.
     
-    ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%201.png)
+    ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%201.png)
     
 
 - 실행시 아래와 같은 화면이 나오게 됩니다.
     
-    ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%202.png)
+    ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%202.png)
     
 
 - 왼쪽 메뉴 리스트의 빈공간에서 마우스 우측 버튼을 누르고 `Import sessions from file` 을 클릭해줍니다.
     
-    ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%203.png)
+    ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%203.png)
     
 - 압축 풀어둔 `files` 의 session 파일을 열어줍니다.
     
-    ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%204.png)
+    ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%204.png)
     
 
 - 아래처럼 황금키 모양이 추가되었습니다.
     
-    ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%205.png)
+    ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%205.png)
     
 
 - 해당 아이템을 마우스 우측 클릭하여 `Edit session` 을 클릭합니다.
     
-    ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%206.png)
+    ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%206.png)
     
 
 - 아래쪽에 `Adavanced SSH settings` 탭을 누르면 메뉴가 뜨는데 여기서 `Use private key` 의 푸른색 서류 모양을 눌러서 `fiels/id_rsa` 파일을 선택해줍니다. **OK**를 눌러서 저장해줍니다.
     
-    ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%207.png)
+    ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%207.png)
     
 
 - 이제 좌측 메뉴에서 해당 아이템을 더블 클릭시 자동으로 연결되며 프로그램이 실행됩니다.
@@ -75,27 +75,27 @@
 - 좌측의  `OpenDir` 버튼을 눌러서 이미지 폴더를 열어줍니다.
     - 이미지 폴더는 작업자분 이메일 아이디로 되어 있습니다.
     
-    ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%208.png)
+    ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%208.png)
     
 - 상단 메뉴에서 `File` - `Save Automatically`를 선택해줍니다.
     
-    ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%209.png)
+    ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%209.png)
     
 
 - 이미지가 뜨면 우측 하단에서 이미지 리스트를 볼 수 있습니다.
     - 상단의 메뉴에서 `Edit` - `Create Rectangle` 을 선택해줍니다.
         
-        ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%2010.png)
+        ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%2010.png)
         
     - 이제 클릭을 두번 해서 위에서 말씀드린 대상 물체를 사각형 박스로 선택합니다. 그 후 위 표의 `object label`에 해당하는 값을 입력해주세요. 여기서는 손을 선택했으니 hand를 입력합니다.(**두번째부터는 미리 입력되어 있으므로 선택만 해주시면 됩니다.**) 같은 방법으로 위의 표에 있는 물체가 보이면 전부 체크 해주시면 됩니다.
         
         **빠르게 하다보면 실수하는 경우가 많으니 주의해주세요!**
         
-        ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%2011.png)
+        ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%2011.png)
         
     - 전부 체크하시고 저장하시면 우측 하단의 리스트에 체크 됩니다. 다음 이미지를 눌러서 이어서 진행하시면 됩니다.
         
-        ![Untitled](Labeling%20%E1%84%89%20e0beb/Untitled%2012.png)
+        ![Untitled](https://github.com/Mr-TalhaIlyas/Python-EXE-applications/blob/main/labelling/Labeling/Untitled%2012.png)
         
 
 ## 기타 정보
